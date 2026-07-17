@@ -1,51 +1,73 @@
-AI Study Assistant
+# AI Study Assistant
 
-Building AI course project
+**Building AI course project**
 
-Summary
+## Summary
 
-AI Study Assistant is an intelligent learning tool that helps students prepare for exams by creating summaries, quizzes, MCQs, and simple explanations. It saves study time, improves understanding, and provides personalized learning support using artificial intelligence.
+AI Study Assistant is an AI-powered application designed to help students study more effectively. It can answer academic questions, summarize chapters, generate quizzes and practice MCQs, and create personalized study plans. The goal is to make learning easier, faster, and more engaging for students preparing for exams.
 
-Background
+## Background
 
-Students often struggle with understanding difficult topics and managing large amounts of study material before exams. This project aims to make studying easier by using AI to provide quick explanations, chapter summaries, and practice questions.
+Many students find it difficult to manage their study time and understand complex topics. They often spend hours searching for explanations and creating notes. This project aims to solve these problems by providing an AI assistant that supports learning and exam preparation.
 
-How is it used?
+Problems addressed:
+* Difficulty understanding complex subjects.
+* Lack of personalized study plans.
+* Time-consuming note-taking.
+* Limited access to instant academic help.
 
-Users enter a topic or upload study material. The AI then:
+## How is it used?
 
-* Generates easy-to-understand summaries
-* Creates practice MCQs
-* Explains difficult concepts
-* Suggests important topics for revision
+Students simply enter a question or upload study material. The AI analyzes the input and provides explanations, summaries, quizzes, or study plans based on the student's needs.
 
-This project is useful for high school, college, and university students.
+Typical users:
+* High school students
+* College and university students
+* Self-learners
+* Teachers preparing learning material
 
-Data Sources and AI Methods
+## Data Sources and AI Methods
 
-The project uses educational content such as textbooks, notes, and trusted learning resources. AI language models analyze the content and generate summaries, explanations, and quizzes based on the user’s input.
+This project uses:
+* Educational textbooks and study materials.
+* Large Language Models (LLMs) for question answering and summarization.
+* Natural Language Processing (NLP) techniques.
+* Machine Learning for personalized recommendations.
 
-Challenges
+## Challenges
 
-This project may sometimes generate incorrect or incomplete answers. It should be used as a study assistant rather than a replacement for teachers or official textbooks.
+This project cannot:
+* Replace teachers completely.
+* Guarantee 100% correct answers every time.
+* Work well without quality learning material.
+* Understand every subject perfectly.
 
-Future Improvements
+## What next?
 
-* Voice-based learning assistant
-* Mobile application
-* Support for multiple languages
-* Progress tracking and performance analysis
-* Personalized study plans
+Future improvements include:
+* Voice-based learning assistant.
+* Mobile application.
+* Multi-language support.
+* Progress tracking dashboard.
+* AI-powered flashcard generator.
 
-Images
-
-Technologies Used
+## Technologies Used
 
 * Python
-* Artificial Intelligence (AI)
+* OpenAI API
 * GitHub
 * Markdown
 
-License
+## Images
 
-This project is for educational purposes.
+![Project Screenshot](/project_image.png)
+
+Replace `project_image.png` with your own screenshot or image uploaded to your GitHub repository.
+
+## Author
+
+**Haseeb Khan**
+
+## License
+
+This project is created for educational purposes as part of the **Elements of AI – Building AI** course.
