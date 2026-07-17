@@ -62,7 +62,6 @@ Future improvements include:
 
 ![Project Screenshot](CEC1AC0A-5531-4607-809A-3944DF63D7CF.png)
 
-Replace `project_image.png` with your own screenshot or image uploaded to your GitHub repository.
 
 ## Author
 
